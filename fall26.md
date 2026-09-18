@@ -13,3 +13,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 ## Students
 
+[Minh Chu](https://github.com/mthwthuu) - Hi! I am currently studying Software Development program at FVTC. This is my first college year. I love cooking and enjoying delicious foods.
